@@ -24,9 +24,9 @@ public class TaskTwo {
         if (test.isEmpty())
             return "";
         String reversed = "";
-        for (int i = test.length() - 1; i >= 0; i--) {
+        for (int i = test.length() - 1; i >= 0; i--) 
             reversed += test.charAt(i);
-        }
+        
         return reversed;
     }
 
