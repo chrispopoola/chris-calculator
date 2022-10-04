@@ -1,4 +1,6 @@
 import "./Wrapper.css";
+import React, { Component }  from 'react';
+
 
 const Wrapper = ({ children }) => {
     return <div className="wrapper">{children}</div>;
