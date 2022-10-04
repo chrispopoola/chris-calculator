@@ -40,7 +40,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chrispopoola/chrispopoola"
+    "url": "https://github.com/chrispopoola/chris-calculator"
   },
   "keywords": [
     "calc"
